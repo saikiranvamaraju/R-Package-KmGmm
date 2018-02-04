@@ -1,5 +1,5 @@
 # R-Package-KmGmm
-Building a basic R package for displaying K-means and Gaussian Mixture models clustering for a specific dataset
+Building a basic R package for displaying results from clustering using K-means and Gaussian Mixture models for a specific dataset.
 
 Background
 This package was specifically created for a small dataset just for understanding the process of building packages in R using functions.
